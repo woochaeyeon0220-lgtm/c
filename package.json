@@ -1,4 +1,6 @@
 {
+  "name": "firebase-vercel",
+  "private": true,
   "scripts": {
     "build": "node -e \"console.log('Static site: no build step needed')\""
   },
